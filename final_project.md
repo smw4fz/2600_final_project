@@ -2,7 +2,6 @@
 #### By: Sophia Wilson
 
 ![Picture of PC](https://www.cyberpowerpc.com/images/cs/PCO11/cs-193-102_400.png)
-<div style="text-align: right"> image from CyberPowerPC </div>
 
 #### This tutorial will educate people on how to build a PC from scratch and to show that it doesn't have to be expensive either!
 ###### _The target audience of this project is for young students in either high school or college who want to be creative and build a computer on their own while saving money. They also get to choose exactly how the computer runs instead of it being chosen for them, causing them to learn more about computers in general._
@@ -16,7 +15,6 @@
 
 ## Getting Started!
 ![Computer Brands](http://www.volusiacomputers.com/themes/vc/assets/images/cta2/cta2-img.png)
-<div style="text-align: right"> image from Volusia Computers </div>
 
 >The best way to find out what kind of computer you want to build is by doing your research.  Companies like Dell, Toshiba, and Microsoft all have their strengths and weaknesses when it comes to certain aspects of their PC's. Building your own PC lets you decide how it should run and what you want it to do.  If you want to use the computer for gaming, a large hard drive with a good fan to support large programs will be of more consideration versus a computer used strictly for work.
 
@@ -45,7 +43,6 @@
   > I am going to go for a larger RAM, larger capacity storage, and a mid-grade processor, for these options are more practical and tend to be cheaper than others. Also, a nice casing because I want my PC to look presentable and original.
 
 ![Motherboard](https://img.freepik.com/free-photo/overhead-view-computer-motherboard_23-2147883843.jpg?size=626&ext=jpg)
-<div style="text-align: right"> image from Freepik </div>
 
 ## Comparing Prices
 > Buying parts for a PC can be daunting since there are thousands of options and many different vendors.  Budgeting helps figure out where you are willing to spend more money, as well as where you want to hold back a little. Strategically narrowing down your options is key.
@@ -74,7 +71,5 @@ Here are some tips to help build a PC so you can prevent making mistakes:
 * Your **motherboard** _has_ to be plugged into all of your devices in order for it to work
 * Last but not least: start it up!
   - install a Windows processor and plug it in -- then connect a monitor to see it work!
-
-<div style="text-align: right"> from WIRED </div>
 
 #### Building a PC can be challenging, while also a lot of fun.  Making sure you budget well helps narrow down the choices and lets you figure out what you really want in a PC.  
